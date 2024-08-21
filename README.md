@@ -13,14 +13,9 @@ To validate the functionality of the script, a test script has been included. Th
    npm install
    ```
 
-2. Compile the TypeScript files to JavaScript:
+2. Compile and run the tests:
    ```
-   npm run build
-   ```
-
-3. Run the test script:
-   ```
-   node dist/testScrapingPermission.js
+   npm test
    ```
 
 ## Using the Script:
