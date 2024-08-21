@@ -1,0 +1,15 @@
+Evaluating terms of service for https://facebook.com
+
+Determination: Scraping is not allowed
+
+Resources:
+1. https://www.facebook.com/biz/directory/
+2. https://www.facebook.com/policies?ref=pf
+3. https://www.facebook.com/help/637205020878504
+4. https://www.facebook.com/legal/terms
+5. https://www.facebook.com/help/536962387275178/?helpref=related_articles
+6. https://www.facebook.com/policies/
+7. https://www.facebook.com/legal/terms/plain_text_terms
+8. https://www.facebook.com/legal/terms#
+9. https://www.facebook.com/legal/commercial_terms
+10. https://www.facebook.com/payments_terms

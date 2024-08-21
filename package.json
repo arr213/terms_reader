@@ -1,11 +1,21 @@
 {
   "name": "terms_reader",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx ts-node src/index.ts",
+    "build": "tsc",
+    "test": "npx ts-node src/_tests_/checkScrapingPermission.test.ts"
   },
-  "author": "",
+  "author": "Adam Reid",
   "license": "ISC",
-  "description": ""
+  "description": "This module reads the terms of service on a website and determines whether or not web scraping is allowed based on the terms of service.",
+  "devDependencies": {
+    "@types/node": "^22.4.1",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "puppeteer": "^23.1.0"
+  }
 }
